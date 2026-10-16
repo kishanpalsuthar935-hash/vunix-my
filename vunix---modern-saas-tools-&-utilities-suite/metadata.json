@@ -1,6 +1,0 @@
-{
-  "name": "Vunix - Modern SaaS Tools & Utilities Suite",
-  "description": "Ultra-clean modern SaaS productivity suite with 15 free and open utility tools. 100% Free Forever • No Sign-Up Needed • Unlimited Access.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
